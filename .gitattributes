@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:\unity_projects\PuzzleGame\Puzzle Game\Library\PackageCache\com.unity.burst@1.8.16\.Runtime\libburst-llvm-16.dylib filter=lfs merge=lfs -text
